@@ -8,4 +8,3 @@
 <h5>This project is a kahoot clone that uses nodejs and mongodb and the concept of socket programming</h5>
 <h5>Multiple games can be ongoing at one time and works with many players per game</h5>
 <h5>Credit given to Ethan Brimhall(please checkout his git) for inspiring this project</h5>
-<h3>Screen Shots:</h3>
